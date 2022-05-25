@@ -1,1 +1,1 @@
-# 🗃 NFT Minter TStarter Files
+# 🗃 NFT Minter Starter Files
